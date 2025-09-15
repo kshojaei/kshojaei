@@ -10,7 +10,7 @@ Data Scientist and Machine Learning Engineer with expertise in AI, scalable data
 
 ## Featured Projects
 - **rag-docs-copilot**: Retrieval-Augmented Generation system for document Q&A  
-- **MachineLearning-Plasma**: Machine learning for predictive modeling from spectral data  
+- **MachineLearning-Plasma**: Machine learning for probabilistic and deterministic predictive modeling from spectral data  
 - **langpy**: Analysis of Langmuir probe measurements in Python  
 - **duspy**: Zero-dimensional plasma modeling with nanoparticle interactions  
 
